@@ -1,12 +1,6 @@
 
 # Hola, soy Luis! 👋
 
-### Sobre mí:
-- 💡 Nací en 2003, tengo 21.
-- 🎓 Estudiante de Ingeniería de Sistemas.
-- 🚀 Apasionado por la tecnología, la inteligencia aritifical y el desarrollo de software.
-- 💻 Dispuesto a aprender y seguir mejorando.
-
 ### Tecnologías que he usado:
 - **Lenguajes de Programación**: Python, Java, C++
 - **Herramientas de IA**: TensorFlow, Scikit-learn
