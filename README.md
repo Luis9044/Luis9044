@@ -1,4 +1,21 @@
-## Hi there 👋
+
+# Hola, soy Luis! 👋
+
+### Sobre mí:
+- 💡 Nací en 2003, tengo 21.
+- 🎓 Estudiante de Ingeniería de Sistemas.
+- 🚀 Apasionado por la tecnología, la inteligencia aritifical y el desarrollo de software.
+- 💻 Dispuesto a aprender y seguir mejorando.
+
+### Tecnologías que he usado:
+- **Lenguajes de Programación**: Python, Java, C++
+- **Herramientas de IA**: TensorFlow, Scikit-learn
+- **Desarrollo Web**: HTML, CSS, JavaScript, Django
+- **Otros**: Docker, Git, RabbitMQ
+
+### Proyectos en los que estoy trabajando:
+- 👷‍♂️ Automatización de supervisión en entornos hospitalarios usando IA para la detección de elementos como mascarillas y guantes.
+- 🛠 Desarrollo de una plataforma para gestionar inventarios de manera eficiente.
 
 <!--
 **Luis9044/Luis9044** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
